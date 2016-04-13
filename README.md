@@ -1,5 +1,5 @@
 ##Coursera - Tarea Semana 5##
-Pueden descargar todo el proyecto con el boton Download .zip para revisar el proyecto y testear con el simulador.
+Pueden descargar todo el proyecto con el boton Download ZIP para revisar el proyecto y testear con el simulador.
 
 Los archivos Datos.swift y ViewController.swift se encuentran dentro del directorio: 
 "Hamburguesas/..."
