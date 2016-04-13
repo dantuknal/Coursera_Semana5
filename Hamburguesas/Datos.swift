@@ -56,7 +56,7 @@ class ColeccionDePaises {                                   //Declaro una clase 
     
     func obtenPais( )->String {                             //Declaro funcion para obtener un pais aleatorio
         let posicion = Int(arc4random()) % paises.count     //Convierto la fn random en Int porque me devuelve un Int no signado
-        return paises[posicion]                             //Devuelve una posicion para el arreglo
+        return paises[posicion]                             //Devuelve un pais del arreglo paises
     }
 }
 
@@ -87,7 +87,7 @@ class ColeccionDeHamburguesas {                             //Declaro una clase 
     
     func obtenHamburguesa( )->String {                          //Declaro funcion para obtener una hamburguesas aleatoria
         let posicion = Int(arc4random()) % hamburguesas.count   //Convierto la fn random en Int porque me devuelve un Int no signado
-        return hamburguesas[posicion]                           //Devuelve una posicion para el arreglo
+        return hamburguesas[posicion]                           //Devuelve una hamburguesa del arreglo
     }
 }
 
@@ -106,7 +106,7 @@ struct Colores {                                                //Declaro una es
     func regresaColorAleatorio() ->UIColor {                    //Declaro funcion para obtener color aleatorio
         
         let posicion = Int(arc4random()) % colores.count        //Convierto la fn random en Int porque me devuelve un Int no signado
-        return colores[posicion]                                //Devuelvo una posicion para el arreglo
+        return colores[posicion]                                //Devuelvo un color para el fondo
     }
     
 }
