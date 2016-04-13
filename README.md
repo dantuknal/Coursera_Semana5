@@ -1,5 +1,7 @@
 ##Coursera - Tarea Semana 5##
-El archivo del playground con el código para revisar esta semana se encuentra en: 
+Pueden descargar todo el proyecto con el boton Download .zip para revisar el proyecto y testear con el simulador.
+
+Los archivos Datos.swift y ViewController.swift se encuentran dentro del directorio: 
 "Hamburguesas/..."
 
 ###Review Criteria###
